@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/themes/mjlis/locale/en_US/locale.xml
+  *
+  * Localization information: https://pkp.sfu.ca/wiki/index.php?title=Translating_OxS
+  * Localization strings.
+  -->
+
+<locale name="en_US" full_name="U.S. English">
+	<message key="plugins.themes.mjlis.name">MJLIS Theme</message>
+	<message key="plugins.themes.mjlis.description">Theme for Malaysian Journal of Library and Information Science, Universiti Malaya</message>
+
+	<!-- Theme options -->
+	<message key="plugins.themes.mjlis.option.typography.label">Typography</message>
+	<message key="plugins.themes.mjlis.option.typography.description">Choose a font combination that suits this journal.</message>
+	<message key="plugins.themes.mjlis.option.typography.notoSans">Noto Sans: A digital-native font designed by Google for extensive language support.</message>
+	<message key="plugins.themes.mjlis.option.typography.notoSerif">Noto Serif: A serif variant of Google's digital-native font.</message>
+	<message key="plugins.themes.mjlis.option.typography.notoSerif_notoSans">Noto Serif/Noto Sans: A complementary pairing with serif headings and sans-serif body text.</message>
+	<message key="plugins.themes.mjlis.option.typography.notoSans_notoSerif">Noto Sans/Noto Serif: A complementary pairing with sans-serif headings and serif body text.</message>
+	<message key="plugins.themes.mjlis.option.typography.lato">Lato: A popular modern sans-serif font.</message>
+	<message key="plugins.themes.mjlis.option.typography.lora">Lora: A wide-set serif font good for reading online.</message>
+	<message key="plugins.themes.mjlis.option.typography.lora_openSans">Lora/Open Sans: A complimentary pairing with serif headings and sans-serif body text.</message>
+	<message key="plugins.themes.mjlis.option.colour.label">Colour</message>
+	<message key="plugins.themes.mjlis.option.colour.description">Choose a colour for the header.</message>
+</locale>
